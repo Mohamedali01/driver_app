@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891234878191",
+    "project_id": "driver-app-7369f",
+    "storage_bucket": "driver-app-7369f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891234878191:android:1924c2dbcb931144e0911a",
+        "android_client_info": {
+          "package_name": "com.mohamedali.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891234878191-ilolp4bovmul0b7p8nrdlqh57ac0vg66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedali.driverapp",
+            "certificate_hash": "4e54ead8ff530c96947237a83e23749eb70e0073"
+          }
+        },
+        {
+          "client_id": "891234878191-a7a3st64sv1gvgfh1bpm9m86i6g4t2ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvkuX03T0L8vRBKWKqpEDm6WTokMstRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891234878191-a7a3st64sv1gvgfh1bpm9m86i6g4t2ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
